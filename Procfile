@@ -1,0 +1,1 @@
+web: java -jar target/DemoDeploy-1.0-SNAPSHOT.war
